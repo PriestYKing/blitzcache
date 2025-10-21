@@ -16,3 +16,4 @@ dist/
 
 go.work
 EOF
+dist/
